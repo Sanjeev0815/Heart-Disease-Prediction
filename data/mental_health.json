@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "user_id": "default_user",
+    "date_recorded": "2025-10-11T14:54:18.520965",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "anxiety_level": 5,
+    "depression_level": 5,
+    "work_hours": 8.0,
+    "physical_activity_min": 30,
+    "social_interaction_level": 5,
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "user_id": "default_user",
+    "date_recorded": "2025-10-11T15:01:48.407157",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "anxiety_level": 5,
+    "depression_level": 5,
+    "work_hours": 8.0,
+    "physical_activity_min": 30,
+    "social_interaction_level": 5,
+    "notes": ""
+  }
+]

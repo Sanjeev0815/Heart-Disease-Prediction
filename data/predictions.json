@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "user_id": "default_user",
+    "prediction_date": "2025-10-11T12:35:41.531967",
+    "model_used": "xgboost",
+    "input_features": "{'age': 50, 'gender': 1, 'chest_pain_type': 1, 'resting_bp': 120, 'cholesterol': 200, 'fasting_blood_sugar': 0, 'rest_ecg': 0, 'max_heart_rate': 150, 'exercise_angina': 0, 'st_depression': 1.0, 'st_slope': 1, 'ca': 0, 'thal': 1}",
+    "prediction_score": 0.9491386413574219,
+    "risk_category": "High Risk",
+    "shap_values": null
+  },
+  {
+    "id": 2,
+    "user_id": "default_user",
+    "prediction_date": "2025-10-11T14:53:11.148115",
+    "model_used": "xgboost",
+    "input_features": "{'age': 50, 'gender': 1, 'chest_pain_type': 1, 'resting_bp': 120, 'cholesterol': 200, 'fasting_blood_sugar': 0, 'rest_ecg': 0, 'max_heart_rate': 150, 'exercise_angina': 0, 'st_depression': 1.0, 'st_slope': 1, 'ca': 0, 'thal': 1}",
+    "prediction_score": 0.9491386413574219,
+    "risk_category": "High Risk",
+    "shap_values": null
+  },
+  {
+    "id": 3,
+    "user_id": "default_user",
+    "prediction_date": "2025-10-11T15:02:07.066264",
+    "model_used": "xgboost",
+    "input_features": "{'age': 50, 'gender': 1, 'chest_pain_type': 1, 'resting_bp': 120, 'cholesterol': 200, 'fasting_blood_sugar': 0, 'rest_ecg': 0, 'max_heart_rate': 150, 'exercise_angina': 0, 'st_depression': 1.0, 'st_slope': 1, 'ca': 0, 'thal': 1}",
+    "prediction_score": 0.9491386413574219,
+    "risk_category": "High Risk",
+    "shap_values": null
+  },
+  {
+    "id": 4,
+    "user_id": "default_user",
+    "prediction_date": "2025-10-12T20:33:47.744493",
+    "model_used": "xgboost",
+    "input_features": "{'age': 50, 'gender': 1, 'chest_pain_type': 1, 'resting_bp': 120, 'cholesterol': 200, 'fasting_blood_sugar': 0, 'rest_ecg': 0, 'max_heart_rate': 150, 'exercise_angina': 0, 'st_depression': 1.0, 'st_slope': 1, 'ca': 0, 'thal': 1}",
+    "prediction_score": 0.9491386413574219,
+    "risk_category": "High Risk",
+    "shap_values": null
+  }
+]
